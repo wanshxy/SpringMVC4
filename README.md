@@ -1,1 +1,1 @@
-# SpringMVC4
+# this project is a demo about SpringMVC with Mybatis and Mysql
